@@ -178,7 +178,7 @@ _Above:_ A screenshot of the Subject View for Maria Edgeworth Letters, Co-PI Hil
 
 ##### 2.3.2.3.2 Sequential Classification
 
-This feature will present the Subjects in a given set to your volunteers in the order you establish within your Manifest. You must add a `priority` field to your Manifest if you want volunteers to be able to classify Subjects in sequence. The contents of this field must be integers. 
+This feature will present the Subjects in a given set to your volunteers in the order you establish within your Manifest. You must add a `#priority` field to your Manifest if you want volunteers to be able to classify Subjects in sequence. The contents of this field must be integers. 
 
 To complete setup, once you’ve uploaded your data with the required field, **you must send an email to contact@zooniverse.org requesting that Sequential Classification be turned on for all applicable workflows.** Please include your project ID number as well as the ID number of all the Workflow(s) you want set up for Sequential Classification. 
 
