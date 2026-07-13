@@ -24,7 +24,7 @@ If you’d like to make use of weighting on one of your projects, please let us 
 This feature will present subjects to project volunteers in a specific order. This is set on a per-workflow basis, and is established using your [subject manifest](https://help.zooniverse.org/getting-started/example/#details-subject-sets-and-manifest-details-aka-what-is-a-manifest).
 
 ### Subject upload and manifest creation
-To support sequential classification, you must upload your project data with a manifest that includes a ‘Priority’ column. The contents of this column must be integers. You must include separate manifests for each subject set that you upload to your project. Each subject set’s ‘Priority’ column should begin with 1. Click [here](https://docs.google.com/spreadsheets/d/1xgoCCw29i0XlnpYyXiVQIiPTpsw5wCaXQSKfskPX3QA/edit?gid=0#gid=0) to view an example manifest with a 'Priority' column.
+To support sequential classification, you must upload your project data with a manifest that includes a `#priority` column. The contents of this column must be integers. You must include separate manifests for each subject set that you upload to your project. Each subject set’s `#priority` column should begin with 1. Click [here](https://docs.google.com/spreadsheets/d/1xgoCCw29i0XlnpYyXiVQIiPTpsw5wCaXQSKfskPX3QA/edit?gid=0#gid=0) to view an example manifest with a `#priority` column.
 
 ### Setup
 At present, project builders must request this feature for their project, on a per-workflow basis. Send an email request to [contact@zooniverse.org](mailto:contact@zooniverse.org), asking that sequential classification be turned on. Be sure to include your project ID number and the relevant workflow ID number(s) in your email. 
